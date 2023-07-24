@@ -1,6 +1,4 @@
-# Link
 
-https://amazon-an e-commerce_clone.netlify.app/
 
 # Amazon_Clone
 
