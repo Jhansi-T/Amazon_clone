@@ -1,6 +1,6 @@
 # Link
 
-https://amazon-clone-less-spend-smile-more.netlify.app/
+https://amazon-an e-commerce_clone.netlify.app/
 
 # Amazon_Clone
 
